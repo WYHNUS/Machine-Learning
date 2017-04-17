@@ -2,7 +2,7 @@
 
 Please refer to _ma4270-report.pdf_ for more details.
 
-### To run the code
+### To test the code
 
 Execute the Python code in following sequence:
 
